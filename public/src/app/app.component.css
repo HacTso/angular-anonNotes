@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+#wrapper {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    background-color: lightblue;
+    margin: 0px auto;
+    padding: 10px;
+}
+#notebox{
+    width: 100%;
+    height: 300px;
+    overflow: scroll;
+}
+.anon {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 3px;
+}
+input, label{
+    margin: 5px 5px 20px 20px;
+}
+h2{
+    margin: 20px;
+    color: black;
+}
+p {
+    display: inline-block;
+    margin: 5px;
+}
+.date {
+    float: right;
+    font-size: 80%;
+}
